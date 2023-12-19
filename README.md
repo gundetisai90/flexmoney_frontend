@@ -33,3 +33,6 @@ details of user & payment & does the payment for you.
   <li> clone the repo
     <li> Run :- run npm i
       <li> Run :- npm run both
+
+
+i have hosted project on vercile server and the link is https://flexmoney-backend-umber.vercel.app/
