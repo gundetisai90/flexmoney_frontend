@@ -35,4 +35,4 @@ details of user & payment & does the payment for you.
       <li> Run :- npm run both
 
 
-i have hosted project on vercile server and the link is https://flexmoney-backend-umber.vercel.app/
+i have hosted project on vercile server and the link is https://flexmoney-frontend-five.vercel.app/
